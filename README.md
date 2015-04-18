@@ -1,4 +1,4 @@
 # first
-my first github repo
+my first repo
 
-edit to this readme file
+edit2 to this readme file
